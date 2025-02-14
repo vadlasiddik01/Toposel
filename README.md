@@ -212,6 +212,9 @@ user-management-api/
 ├── .gitignore
 └── package.json
 
+##gitignore
+in gitignore directory add .env for security measures so that others cant see mongodb credentials and jwt security key.
+
 ## Security Measures
 
 - Passwords are hashed using bcryptjs
