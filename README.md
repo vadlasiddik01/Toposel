@@ -88,7 +88,7 @@ json
 }
 
 #### 3. Search Users
-- **URL:** `http://localhost:3000/api/users/search?query=male`
+- **URL:** `http://localhost:3000/api/users/search?query=test`
 - **Response:**
 json
 [
