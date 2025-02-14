@@ -32,7 +32,7 @@ A RESTful API built with Express.js and MongoDB for user management with JWT aut
 
 1. Clone the repository
 bash
-git clone <repository-url>
+git clone https://github.com/vadlasiddik01/Toposel.git
 
 2. Install dependencies
 cd user-management-api
